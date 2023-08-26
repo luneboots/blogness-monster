@@ -1,4 +1,3 @@
 # blogness-monster
 
-
-# blogness-monster
+UNDER DEVELOPMENT
